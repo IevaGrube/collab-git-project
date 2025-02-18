@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Hello from Person A!
+=======
+Hello from Person B!
+>>>>>>> feature-world
+
